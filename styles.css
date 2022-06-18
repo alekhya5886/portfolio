@@ -42,7 +42,7 @@ a {
  .bottom-cloud {
 position: absolute;
 left: 350px;
-bottom: 300px;
+top: 300px;
  }
  .top-container {
 background-color: #E4F9F5;
